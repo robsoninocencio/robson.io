@@ -56,3 +56,9 @@ npm install firebase
 npm install
 
 npm run dev
+
+npm i @chakra-ui/react @emotion/react@^11 @emotion/styled@^11 framer-motion@^4
+
+npx eslint --init
+
+npm install prettier eslint-config-prettier@7.2.0 eslint-plugin-prettier -D

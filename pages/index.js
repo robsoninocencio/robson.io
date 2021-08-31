@@ -7,7 +7,9 @@ export default function Home() {
     <div>
       <h1>Home</h1>
       <h2>Aprenda programação direto ao ponto 100% Free</h2>
-      <button onClick={() => signin()}>Entrar com github</button>
+      <button type="button" className="" onClick={() => signin()}>
+        Entrar com github
+      </button>
     </div>
   );
 }
