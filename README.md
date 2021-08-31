@@ -47,6 +47,8 @@ https://vercel.com/robsoninocencio/robson-io
 
 https://robson-io.vercel.app/
 
+https://lucasnhimi-demo.vercel.app/
+
 https://github.com/robsoninocencio/robson.io
 
 ## Comandos
@@ -62,3 +64,5 @@ npm i @chakra-ui/react @emotion/react@^11 @emotion/styled@^11 framer-motion@^4
 npx eslint --init
 
 npm install prettier eslint-config-prettier@7.2.0 eslint-plugin-prettier -D
+
+https://fonts.google.com/?query=inter
