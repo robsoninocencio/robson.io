@@ -52,3 +52,7 @@ https://github.com/robsoninocencio/robson.io
 ## Comandos
 
 npm install firebase
+
+npm install
+
+npm run dev
